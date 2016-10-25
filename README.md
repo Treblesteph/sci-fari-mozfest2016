@@ -1,4 +1,4 @@
-![lion-sunset](/assets/lion-sunset.jpg)
+![lion-sunset](https://github.com/Treblesteph/sci-fari-mozfest2016/raw/master/assets/lion_sun.jpg)
 
 # :earth_africa: :lion: :microscope: :kenya: Science Safaris in the Maasai Mara, Kenya :kenya: :microscope: :lion: :earth_africa:
 
