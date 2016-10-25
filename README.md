@@ -1,6 +1,6 @@
-# :earth_africa: :lion: :microscope: :kenya: Science Safaris in the Maasai Mara, Kenya :kenya: :microscope: :lion: :earth_africa:
+![lion-sunset](/assets/lion-sunset.jpg)
 
-[TODO] - upload picture
+# :earth_africa: :lion: :microscope: :kenya: Science Safaris in the Maasai Mara, Kenya :kenya: :microscope: :lion: :earth_africa:
 
 ## Project vision :see_no_evil:
 
